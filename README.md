@@ -8,7 +8,7 @@ Public list of all bugs for License To Clone game.
 
 [View Bugs](https://github.com/aJamDonut/ltc_bugs/issues?q=is%3Aissue+is%3Aopen+label%3Abug) | [New bug](https://github.com/aJamDonut/ltc_bugs/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=)
 
-[View Suggestions](https://github.com/aJamDonut/ltc_bugs/issues?q=is%3Aissue+is%3Aopen+label%3Abug) | [New Suggestion](https://github.com/aJamDonut/ltc_bugs/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=)
+[View Suggestions](https://github.com/aJamDonut/ltc_bugs/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) | [New Suggestion](https://github.com/aJamDonut/ltc_bugs/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=)
 
 
 ## View all

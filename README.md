@@ -2,7 +2,7 @@
 
 Public list of all bugs for License To Clone game.
 
-**Important:** In order to submit then you can either write your feedback in the discord, steam community hub or add it directly here if you create a github account.
+**Important:** In order to submit one then you can either write your feedback in the discord, steam community hub or add it directly here if you create a github account.
 
 [View All](https://github.com/aJamDonut/ltc_bugs/issues)
 
@@ -33,3 +33,16 @@ In general we follow this priority before then further refining it's priority:
 - **High** - Would softlock the player in the game
 - **Medium** - Effects the player sometimes
 - **Low** - Effects the player rarely
+
+## With thanks to testers
+
+The below testers have gone above and beyond to help report any and all issues in the game and give their feedback, they have earnt their name in the games credits and will receive the full game for free!
+
+Gaslover
+MachineLordZero
+Chilli Dog Dave
+Drowsiest
+Beinded
+ViciousCrow
+
+Want to join testing? Join the discord by [clicking here](https://discord.gg/CmSFawGNeU)

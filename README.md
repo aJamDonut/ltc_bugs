@@ -17,56 +17,15 @@ All bugs are publicly viewed and tracked here:
 
 Before submitting please ensure you copy a template from below.
 
-[Click here submit a bug/suggestion](https://github.com/aJamDonut/ltc_bugs/issues/new)
+[Click here submit a bug/suggestion](https://github.com/aJamDonut/ltc_bugs/issues/new/choose)
 
+## Priority
 
-# Templates
+Priority is chosen at the developer discretion, factoring in many different aspects such as impact to users, ease of fix etc.
 
-When submitting an issue please use one of the templates below.
+In general we follow this priority before then further refining it's priority:
 
-
-
-```
-# Issue
-
-Fill in the below to your best ability, missing one of the sections is okay!
-
-**Game Version:** 0.9.4.79
-**Reported by:** Person
-**Has save data?:** No
-**Operating System:** Windows 11
-**Resolution:** 1920x1080
-**CPU:** Intel-11400
-**GPU:** GeForce 1060 3gb
-**Memory (RAM):** 16GB
-**Game Quality Setting:** Low | Med | High
-**Platform:** Steam
-
-## Description
-
-The big description of the issue
-
-## Expected
-
-What you expected to happen
-
-## Actual
-
-What actually happened
-
-## Replication steps
-
-How can a developer replicate the issue?
-```
-
-# Suggestions
-
-```
-# Suggestion
-
-**Reported by:** Person
-
-## Description
-
-The big description of the issue
-```
+- **Critical** - Would hardlock the player out of the game
+- **High** - Would softlock the player in the game
+- **Medium** - Effects the player sometimes
+- **Low** - Effects the player rarely

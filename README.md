@@ -1,9 +1,30 @@
 # About
-Public list of all bugs for License To Clone game
+
+Public list of all bugs for License To Clone game.
+
+[View All](https://github.com/aJamDonut/ltc_bugs/issues) | [Submit New](https://github.com/aJamDonut/ltc_bugs/issues/new)
+
+In order to submit you can write your feedback in the discord, steam community hub or add it directly here if you create a github account.
+
+
+## View all
+
+All bugs are publicly viewed and tracked here:
+
+[Click here to view all bugs/suggestions](https://github.com/aJamDonut/ltc_bugs/issues)
+
+## Submit new
+
+Before submitting please ensure you copy a template from below.
+
+[Click here submit a bug/suggestion](https://github.com/aJamDonut/ltc_bugs/issues/new)
+
 
 # Templates
 
 When submitting an issue please use one of the templates below.
+
+
 
 ```
 # Issue

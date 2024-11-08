@@ -38,11 +38,11 @@ In general we follow this priority before then further refining it's priority:
 
 The below testers have gone above and beyond to help report any and all issues in the game and give their feedback, they have earnt their name in the games credits and will receive the full game for free!
 
-Gaslover
-MachineLordZero
-Chilli Dog Dave
-Drowsiest
-Beinded
-ViciousCrow
+- Gaslover
+- MachineLordZero
+- Chilli Dog Dave
+- Drowsiest
+- Beinded
+- ViciousCrow
 
 Want to join testing? Join the discord by [clicking here](https://discord.gg/CmSFawGNeU)

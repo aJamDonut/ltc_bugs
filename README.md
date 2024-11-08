@@ -2,9 +2,9 @@
 
 Public list of all bugs for License To Clone game.
 
-[View All](https://github.com/aJamDonut/ltc_bugs/issues) | [New bug](https://github.com/aJamDonut/ltc_bugs/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=) | [New Suggestion](https://github.com/aJamDonut/ltc_bugs/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=)
+**Important:** In order to submit then you can either write your feedback in the discord, steam community hub or add it directly here if you create a github account.
 
-In order to submit you can write your feedback in the discord, steam community hub or add it directly here if you create a github account.
+[View All](https://github.com/aJamDonut/ltc_bugs/issues) | [New bug](https://github.com/aJamDonut/ltc_bugs/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=) | [New Suggestion](https://github.com/aJamDonut/ltc_bugs/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=)
 
 
 ## View all
